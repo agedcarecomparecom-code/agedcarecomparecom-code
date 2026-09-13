@@ -23,7 +23,7 @@ Choosing an aged care home is one of the hardest decisions a family makes, and t
 
 **How we work**
 
-- **Independent.** No referral fees or commissions from providers. Any commercial relationship is disclosed.
+- **Independent.** Not owned by or affiliated with any aged care provider. Any commercial relationship is disclosed.
 - **Sourced.** Every statistic is tied to a named official source and a date. Where sources disagree, we show both.
 - **Written for people.** RAD, DAP, AN-ACC and means-tested care fees are explained every time they appear.
 - **Corrected in the open.** Mistakes are fixed and noted on the page.
@@ -45,7 +45,9 @@ Founded and edited by [James Keane](https://www.linkedin.com/in/james-keane-6636
 | Instagram | [@agedcarechecker](https://www.instagram.com/agedcarechecker/) |
 | Threads | [@agedcarechecker](https://www.threads.com/@agedcarechecker) |
 | Pinterest | [pinterest.com/agedcarechecker](https://www.pinterest.com/agedcarechecker/) |
-| Founder | [James Keane on LinkedIn](https://www.linkedin.com/in/james-keane-663625436/) |
+| Crunchbase | [crunchbase.com/organization/aged-care-checker](https://www.crunchbase.com/organization/aged-care-checker) |
+| GitHub | [github.com/agedcarecomparecom-code](https://github.com/agedcarecomparecom-code) |
+| Founder | [James Keane on LinkedIn](https://www.linkedin.com/in/james-keane-663625436/) · [Crunchbase](https://www.crunchbase.com/person/james-keane-0768) |
 
 ---
 
